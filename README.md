@@ -9,6 +9,8 @@ This addon focus on two tasks:
 It leverages the [Kubernetes Maven plugin](https://www.eclipse.org/jkube/docs/kubernetes-maven-plugin)  to generate container image and Kubernetes manifests.
 
 ## Development
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle2-addon-jkube.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle2-addon-jkube?ref=badge_shield)
+
 To browse code - [Open in VSCode](https://open.vscode.dev/konveyor/tackle2-addon-jkube)
 
 We use [tackle2-hub addon](https://github.com/konveyor/tackle2-hub/tree/main/addon) package to integrate addon with [tackle2-hub](https://github.com/konveyor/tackle2-hub). Here is a good starter template to build an addon - [Test Addon](https://github.com/konveyor/tackle2-hub/tree/main/hack/cmd/addon).
@@ -106,3 +108,7 @@ Here you will find everything you need to successfully execute an addon, we did 
 https://user-images.githubusercontent.com/20452032/201997511-3b2a86cb-dfd0-4a0a-9c90-bbc0fdbd987e.mov
 
 📽️ [Watch on YouTube](https://youtu.be/fJM10cq7txg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle2-addon-jkube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle2-addon-jkube?ref=badge_large)
